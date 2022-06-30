@@ -29,5 +29,3 @@ Here we passed the dataset given to us through the following stages:
 * I learned how to make dirty datasets fit.
 * Since I had done the same project with a different data set before, I was able to look at this project in a very different way. With this, I realized how important the project experience is.
 
-
-You can reach my project from this [link](https://github.com/s4mto/flashcards) :)
